@@ -5,6 +5,7 @@ A docker container with quantil kubectl
 ```bash
 docker pull registry-qcc.quantil.com/ibe-tools/kubectl:2.2.2 && docker tag registry-qcc.quantil.com/ibe-tools/kubectl:2.2.2 kubectl:2.2.2
 ```
+Copy your cert and pem file locally
 Export your cert and pem file
 ```
 export CERT=<your_cert_file>
