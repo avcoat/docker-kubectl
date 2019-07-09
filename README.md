@@ -1,7 +1,7 @@
 # docker-kubectl
 A docker container with quantil kubectl
 
-### Useage
+### Usage
 ```bash
 docker pull registry-qcc.quantil.com/ibe-tools/kubectl:2.2.2 \
   && docker tag registry-qcc.quantil.com/ibe-tools/kubectl:2.2.2 kubectl:2.2.2
